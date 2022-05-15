@@ -1,3 +1,3 @@
 # Write Articles on Various Topics
-1. [a little survey on text-to-image](https://github.com/qiaojy19/q-Blogs/issues/1)
-2. [useful tools to write latex in github](https://github.com/qiaojy19/q-Blogs/issues/2)
+1. [a Little Survey on Text-to-Image](https://github.com/qiaojy19/q-Blogs/issues/1)
+2. [Useful Tools to Write in Github](https://github.com/qiaojy19/q-Blogs/issues/2)
