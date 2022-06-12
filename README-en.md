@@ -1,4 +1,4 @@
-|[中文](https://github.com/qiaojy19/q-Blog/blob/main/README.md)|[English](https://github.com/qiaojy19/q-Blog/blob/main/README-en.md)|
+|[中文](https://github.com/qiaojy19/q-Blog/blob/main/README.md)|English|
 |--|--|
 # Blog
 
